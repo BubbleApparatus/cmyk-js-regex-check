@@ -8,7 +8,7 @@ Currently only accepts percentage values with or without the alpha channel.
 
 Do note that I am not very comfortable with regex and take no responsibility for anything that goes wrong with using this.
 
-[a link](https://regex101.com/r/6vDDKY/1)
+[DEMO](https://regex101.com/r/6vDDKY/1)
 
 Regex:
 
