@@ -1,4 +1,4 @@
-###### regex CMYK validator
+# regex CMYK validator
 ***
 
 Regex to check for validity of CMYK values. 
