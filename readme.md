@@ -1,6 +1,5 @@
-############################
-### CMYK regex validator ###
-############################
+###### regex CMYK validator
+***
 
 Regex to check for validity of CMYK values. 
 The regex is javascript-compatible and does not use PCRE -style if-statements.
